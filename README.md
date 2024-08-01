@@ -1,6 +1,5 @@
 # Olá, eu sou o Lúcio Motta 👋
 
-Bem-vindo ao meu perfil GitHub! Sou apaixonado por desenvolvimento de software e sempre em busca de novos desafios e aprendizados.
 
 
 
@@ -8,6 +7,7 @@ Bem-vindo ao meu perfil GitHub! Sou apaixonado por desenvolvimento de software e
 
 
 
+Bem-vindo ao meu perfil GitHub! Sou apaixonado por desenvolvimento de software e sempre em busca de novos desafios e aprendizados.
 
 ## Sobre Mim
 
