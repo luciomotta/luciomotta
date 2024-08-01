@@ -6,7 +6,7 @@ Bem-vindo ao meu perfil GitHub! Sou apaixonado por desenvolvimento de software e
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/seulink/)](https://www.linkedin.com/in/lucio-motta-828613166/)
 [![Portifolio](https://img.shields.io/badge/-portifolio-gray?style=flat-square&logo=x&logoColor=white&link=https://www.Discrod.com/in/seulink/)](https://portifolio-lucio-motta.netlify.app/)
 [![Discord](https://img.shields.io/badge/-Discord-blac?style=flat-square&logo=Discord&logoColor=white&link=https://www.Discord.com/in/seulink/)](https://discord.com/)
-
+[![instagram](https://www.instagram.com/lucioo_motta/)
 ## Sobre Mim
 
 <table>
