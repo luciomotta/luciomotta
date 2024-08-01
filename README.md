@@ -1,7 +1,7 @@
 # Olá, eu sou o Lúcio Motta 👋
 Bem-vindo ao meu perfil GitHub! Sou apaixonado por desenvolvimento de software e sempre em busca de novos desafios e aprendizados.
 
-- [Sobre Mim](#sobre-mim) / [Minhas Skills](#minhas-skills) / [Contato](#vamos-nos-conectar!) 
+- [Sobre Mim](#sobre-mim) / [Minhas Skills](#-minhas-skills) / [Contato](#vamos-nos-conectar)
 ## Vamos nos conectar!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucio-motta-828613166/)
