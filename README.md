@@ -4,7 +4,7 @@ Bem-vindo ao meu perfil GitHub! Sou apaixonado por desenvolvimento de software e
 
 
 
-- [Sobre Mim](#sobre-mim) / [Linguagens e Ferramentas](#linguagens-e-ferramentas) / [Contato](#Vamos-nos-conectar!)
+- [Sobre Mim](#sobre-mim) / [Linguagens e Ferramentas](#linguagens-e-ferramentas) / [Contato](#Vamos-nos-conectar!) (https://raw.githubusercontent.com/rg3915/rg3915/main/fcf7fd0c619bb87706533079240915f3.gif)
 
 
 
