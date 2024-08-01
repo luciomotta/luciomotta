@@ -59,6 +59,7 @@ Bem-vindo ao meu perfil GitHub! Sou apaixonado por desenvolvimento de software e
 
 ## Estatísticas do GitHub
 ![Estatísticas do GitHub de Lúcio Motta](https://github-readme-stats.vercel.app/api?username=luciomotta&show_icons=true&theme=dark&include_all_commits=true&show_rank=true)
+![Outras estatísticas](https://github-readme-stats.vercel.app/api/top-langs/?username=luciomotta&layout=compact&theme=dark)
 
 ## Vamos nos conectar!
 
