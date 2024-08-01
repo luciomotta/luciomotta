@@ -3,6 +3,11 @@
 - [Sobre Mim](#sobre-mim) / [Minhas Skills](#minhas-skills) / [Contato](#vamos-nos-conectar!) 
 
 Bem-vindo ao meu perfil GitHub! Sou apaixonado por desenvolvimento de software e sempre em busca de novos desafios e aprendizados.
+## Vamos nos conectar!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/seulink/)](https://www.linkedin.com/in/lucio-motta-828613166/)
+[![Portifolio](https://img.shields.io/badge/-portifolio-gray?style=flat-square&logo=x&logoColor=white&link=https://www.Discrod.com/in/seulink/)](https://portifolio-lucio-motta.netlify.app/)
+[![Discord](https://img.shields.io/badge/-Discord-blac?style=flat-square&logo=Discord&logoColor=white&link=https://www.Discord.com/in/seulink/)](https://discord.com/)
 
 ## Sobre Mim
 
@@ -25,6 +30,10 @@ Bem-vindo ao meu perfil GitHub! Sou apaixonado por desenvolvimento de software e
 </table>
 
 ## 🚀 Minhas Skills
+
+## Estatísticas do GitHub
+![Estatísticas do GitHub de Lúcio Motta](https://github-readme-stats.vercel.app/api?username=luciomotta&show_icons=true&theme=dark&include_all_commits=true&show_rank=true)
+![Outras estatísticas](https://github-readme-stats.vercel.app/api/top-langs/?username=luciomotta&layout=compact&theme=dark)
 
 ### 🛠️ Ferramentas de Desenvolvimento
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
@@ -56,13 +65,3 @@ Bem-vindo ao meu perfil GitHub! Sou apaixonado por desenvolvimento de software e
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![jQuery](https://img.shields.io/badge/-jQuery-black?style=flat-square&logo=jquery)
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
-
-## Estatísticas do GitHub
-![Estatísticas do GitHub de Lúcio Motta](https://github-readme-stats.vercel.app/api?username=luciomotta&show_icons=true&theme=dark&include_all_commits=true&show_rank=true)
-![Outras estatísticas](https://github-readme-stats.vercel.app/api/top-langs/?username=luciomotta&layout=compact&theme=dark)
-
-## Vamos nos conectar!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/seulink/)](https://www.linkedin.com/in/lucio-motta-828613166/)
-[![Portifolio](https://img.shields.io/badge/-portifolio-gray?style=flat-square&logo=x&logoColor=white&link=https://www.Discrod.com/in/seulink/)](https://portifolio-lucio-motta.netlify.app/)
-[![Discord](https://img.shields.io/badge/-Discord-blac?style=flat-square&logo=Discord&logoColor=white&link=https://www.Discord.com/in/seulink/)](https://discord.com/)
