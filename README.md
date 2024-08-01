@@ -3,10 +3,12 @@ Bem-vindo ao meu perfil GitHub! Sou apaixonado por desenvolvimento de software e
 
 - [Sobre Mim](#sobre-mim) / [Minhas Skills](#minhas-skills) / [Contato](#vamos-nos-conectar!) 
 ## Vamos nos conectar!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/seulink/)](https://www.linkedin.com/in/lucio-motta-828613166/)
-[![Portifolio](https://img.shields.io/badge/-portifolio-gray?style=flat-square&logo=x&logoColor=white&link=https://www.Discrod.com/in/seulink/)](https://portifolio-lucio-motta.netlify.app/)
-[![Discord](https://img.shields.io/badge/-Discord-blac?style=flat-square&logo=Discord&logoColor=white&link=https://www.Discord.com/in/seulink/)](https://discord.com/)
-[![Instagram](https://www.instagram.com/lucioo_motta/)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucio-motta-828613166/)
+[![Portfólio](https://img.shields.io/badge/-Portfólio-gray?style=flat-square&logo=netlify&logoColor=white)](https://portifolio-lucio-motta.netlify.app/)
+[![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/lucioo_motta/)
+
 ## Sobre Mim
 
 <table>
