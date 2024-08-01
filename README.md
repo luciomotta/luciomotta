@@ -11,7 +11,7 @@ Bem-vindo ao meu perfil GitHub! Sou apaixonado por desenvolvimento de software e
 
 ## Sobre Mim
 
-<div style="background-image: url('https://github.com/luciomotta/luciomotta/blob/main/fcf7fd0c619bb87706533079240915f3.gif'); padding: 20px; color: white;">
+<div style="background-image: url('https://github.com/luciomotta/luciomotta/blob/main/fcf7fd0c619bb87706533079240915f3.gif'); padding: 20px;">
   <table>
     <tr>
       <td>
