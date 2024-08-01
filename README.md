@@ -3,7 +3,7 @@
 
 
 
-- [Sobre Mim](#sobre-mim) / [Linguagens e Ferramentas](#linguagens-e-ferramentas) / [Contato](#Vamos-nos-conectar!) (https://raw.githubusercontent.com/rg3915/rg3915/main/fcf7fd0c619bb87706533079240915f3.gif)
+- [Sobre Mim](#sobre-mim) / [Linguagens e Ferramentas](#linguagens-e-ferramentas) / [Contato](#Vamos-nos-conectar!) 
 
 
 
@@ -55,7 +55,7 @@ Bem-vindo ao meu perfil GitHub! Sou apaixonado por desenvolvimento de software e
 ![Azure](https://img.shields.io/badge/-Azure-black?style=flat-square&logo=microsoft-azure)
 ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-black?style=flat-square&logo=microsoft-office)
-
+![](https://raw.githubusercontent.com/rg3915/rg3915/main/fcf7fd0c619bb87706533079240915f3.gif)
 
 ## Estatísticas do GitHub
 ![Estatísticas do GitHub de SeuNome](https://github-readme-stats.vercel.app/api?username=luciomotta&show_icons=true&theme=dark&include_all_commits=true&show_rank=true)
