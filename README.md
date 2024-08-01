@@ -1,6 +1,6 @@
 # Olá, eu sou o Lúcio Motta 👋
 
-- [Sobre Mim](#sobre-mim) / [Linguagens e Ferramentas](#linguagens-e-ferramentas) / [Contato](#Vamos-nos-conectar!) 
+- [Sobre Mim](#sobre-mim) / [Minhas Skills](#minhas-skills) / [Contato](#vamos-nos-conectar!) 
 
 Bem-vindo ao meu perfil GitHub! Sou apaixonado por desenvolvimento de software e sempre em busca de novos desafios e aprendizados.
 
@@ -24,9 +24,19 @@ Bem-vindo ao meu perfil GitHub! Sou apaixonado por desenvolvimento de software e
   </tr>
 </table>
 
-## Linguagens e Ferramentas:
-![Outras estatísticas](https://github-readme-stats.vercel.app/api/top-langs/?username=luciomotta&layout=compact&theme=dark)
+## 🚀 Minhas Skills
 
+### 🛠️ Ferramentas de Desenvolvimento
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-black?style=flat-square&logo=google-cloud)
+![Azure](https://img.shields.io/badge/-Azure-black?style=flat-square&logo=microsoft-azure)
+![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
+![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-black?style=flat-square&logo=microsoft-office)
+
+### 🖥️ Linguagens
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -36,26 +46,16 @@ Bem-vindo ao meu perfil GitHub! Sou apaixonado por desenvolvimento de software e
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql)
 ![PL/SQL](https://img.shields.io/badge/-PL%2FSQL-black?style=flat-square&logo=oracle)
-![Oracle APEX](https://img.shields.io/badge/-Oracle_APEX-black?style=flat-square&logo=oracle)
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
 ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)
+
+### 🧰 Frameworks e Bibliotecas
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![jQuery](https://img.shields.io/badge/-jQuery-black?style=flat-square&logo=jquery)
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
-![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
-![Google Cloud](https://img.shields.io/badge/-Google_Cloud-black?style=flat-square&logo=google-cloud)
-![Azure](https://img.shields.io/badge/-Azure-black?style=flat-square&logo=microsoft-azure)
-![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
-![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-black?style=flat-square&logo=microsoft-office)
-![](https://raw.githubusercontent.com/rg3915/rg3915/main/fcf7fd0c619bb87706533079240915f3.gif)
 
 ## Estatísticas do GitHub
 ![Estatísticas do GitHub de Lúcio Motta](https://github-readme-stats.vercel.app/api?username=luciomotta&show_icons=true&theme=dark&include_all_commits=true&show_rank=true)
