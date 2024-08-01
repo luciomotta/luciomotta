@@ -14,7 +14,7 @@ Bem-vindo ao meu perfil GitHub! Sou apaixonado por desenvolvimento de software e
 <table>
   <tr>
     <td>
-      <img src="URL_DA_SUA_IMAGEM" alt="Lúcio Motta" width="150">
+      <img src="https://raw.githubusercontent.com/luciomotta/luciomotta/main/83682095.jfif" alt="Lúcio Motta" width="150">
     </td>
     <td>
       - 🔭 Atualmente estou trabalhando no Senado Federal.<br>
