@@ -1,28 +1,28 @@
 # Olá, eu sou o Lúcio Motta 👋
 
-
-
-
 - [Sobre Mim](#sobre-mim) / [Linguagens e Ferramentas](#linguagens-e-ferramentas) / [Contato](#Vamos-nos-conectar!) 
-
-
 
 Bem-vindo ao meu perfil GitHub! Sou apaixonado por desenvolvimento de software e sempre em busca de novos desafios e aprendizados.
 
 ## Sobre Mim
 
-- 🔭 Atualmente estou trabalhando no Senado Federal.
-
-- 🖥️  Trabalho em projetos pessoais e freelances.
-- 🏴‍☠️ experiencia: TJDFT & Tribunal Superior do Trabalho  
-- 🌱 Estou aprendendo mais sobre desenvolvimento web, especialmente React, Node.js e Apex (Oracle).
-- 👯 Estou procurando colaborar em projetos open source e iniciativas comunitárias.
-- 🤔 Preciso de ajuda com algoritmos avançados e estruturas de dados.
-- 💬 Pergunte-me sobre JavaScript, Python, e tudo relacionado a desenvolvimento web.
-- 📫 Como entrar em contato comigo: [dev.lucio0@gmail.com
-](mailto:dev.lucio0@gmail.com
-)
-
+<table>
+  <tr>
+    <td>
+      <img src="URL_DA_SUA_IMAGEM" alt="Lúcio Motta" width="150">
+    </td>
+    <td>
+      - 🔭 Atualmente estou trabalhando no Senado Federal.<br>
+      - 🖥️ Trabalho em projetos pessoais e freelances.<br>
+      - 🏴‍☠️ experiência: TJDFT & Tribunal Superior do Trabalho<br>
+      - 🌱 Estou aprendendo mais sobre desenvolvimento web, especialmente React, Node.js e Apex (Oracle).<br>
+      - 👯 Estou procurando colaborar em projetos open source e iniciativas comunitárias.<br>
+      - 🤔 Preciso de ajuda com algoritmos avançados e estruturas de dados.<br>
+      - 💬 Pergunte-me sobre JavaScript, Python, e tudo relacionado a desenvolvimento web.<br>
+      - 📫 Como entrar em contato comigo: <a href="mailto:dev.lucio0@gmail.com">dev.lucio0@gmail.com</a>
+    </td>
+  </tr>
+</table>
 
 ## Linguagens e Ferramentas:
 ![Outras estatísticas](https://github-readme-stats.vercel.app/api/top-langs/?username=luciomotta&layout=compact&theme=dark)
@@ -58,7 +58,7 @@ Bem-vindo ao meu perfil GitHub! Sou apaixonado por desenvolvimento de software e
 ![](https://raw.githubusercontent.com/rg3915/rg3915/main/fcf7fd0c619bb87706533079240915f3.gif)
 
 ## Estatísticas do GitHub
-![Estatísticas do GitHub de SeuNome](https://github-readme-stats.vercel.app/api?username=luciomotta&show_icons=true&theme=dark&include_all_commits=true&show_rank=true)
+![Estatísticas do GitHub de Lúcio Motta](https://github-readme-stats.vercel.app/api?username=luciomotta&show_icons=true&theme=dark&include_all_commits=true&show_rank=true)
 
 ## Vamos nos conectar!
 
