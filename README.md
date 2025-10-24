@@ -23,8 +23,6 @@ Bem-vindo ao meu perfil GitHub! Sou apaixonado por desenvolvimento de software e
         - 🏴‍☠️ experiência: TJDFT & Tribunal Superior do Trabalho<br>
         - 🌱 Estou aprendendo mais sobre desenvolvimento web, especialmente React, Node.js e Apex (Oracle).<br>
         - 👯 Estou procurando colaborar em projetos open source e iniciativas comunitárias.<br>
-        - 🤔 Preciso de ajuda com algoritmos avançados e estruturas de dados.<br>
-        - 💬 Pergunte-me sobre JavaScript, Python, e tudo relacionado a desenvolvimento web.<br>
         - 📫 Como entrar em contato comigo: <a href="mailto:dev.lucio0@gmail.com">dev.lucio0@gmail.com</a>
       </td>
     </tr>
